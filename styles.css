@@ -262,8 +262,104 @@ p {
     height: 48vh;
 }
 
+.Experiences_barre {}
+
 .connaissances_texte {
     margin-left: 40px;
+}
+
+.logiciels {
+    margin-top: 90px;
+}
+
+.logiciels_texte {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: "row";
+    justify-content: space-between;
+}
+
+.logiciel_left {
+    display: flex;
+    flex: 1;
+}
+
+.logiciel_right {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.logiciel_barre_1 {
+    margin-top: 19px;
+    /* margin-bottom: 17px; */
+    height: 15px;
+    width: 90%;
+    border: 2px solid #adabff !important;
+}
+
+.logiciel_barre_2 {
+    display: flex;
+    flex: 1;
+    width: 65%;
+    height: 100%;
+    background-color: #adabff;
+}
+
+.logiciel_barre_3 {
+    display: flex;
+    flex: 1;
+    width: 50%;
+    height: 100%;
+    background-color: #adabff;
+}
+
+.logiciel_barre_4 {
+    display: flex;
+    flex: 1;
+    width: 65%;
+    height: 100%;
+    background-color: #adabff;
+}
+
+.logiciel_barre_5 {
+    display: flex;
+    flex: 1;
+    width: 65%;
+    height: 100%;
+    background-color: #adabff;
+}
+
+.logiciel_barre_6 {
+    display: flex;
+    flex: 1;
+    width: 30%;
+    height: 100%;
+    background-color: #adabff;
+}
+
+.logiciel_barre_7 {
+    display: flex;
+    flex: 1;
+    width: 30%;
+    height: 100%;
+    background-color: #adabff;
+}
+
+.logiciel_barre_8 {
+    display: flex;
+    flex: 1;
+    width: 90%;
+    height: 100%;
+    background-color: #adabff;
+}
+
+.logiciel_barre_9 {
+    display: flex;
+    flex: 1;
+    width: 90%;
+    height: 100%;
+    background-color: #adabff;
 }
 
 @page size: A4;
